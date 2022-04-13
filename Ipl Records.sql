@@ -27,7 +27,7 @@ union all Select * from [Most Runs - 2012]
 union all Select * from [Most Runs - 2013]
 union all Select * from [Most Runs - 2014]
 union all Select * from [Most Runs - 2015]
-union all Select * from [Most Runs - 2016] --- union all used to join all the unique rows from multiple tables
+union all Select * from [Most Runs - 2016] --- union all used to join all the rows from multiple tables
 union all Select * from [Most Runs - 2017]
 union all Select * from [Most Runs - 2018]
 union all Select * from [Most Runs - 2019]
